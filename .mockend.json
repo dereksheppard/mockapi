@@ -1,0 +1,12 @@
+{
+  "Provider": {
+    "contractId": "int",
+    "organization": "string",
+    "status": "string",
+    "award": "int",
+    "investment_area": "string",
+    "strategy_area": "string",
+    "districts": "string",
+    "description": "string"
+  }
+}
